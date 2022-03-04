@@ -1,0 +1,8 @@
+.group__title{
+    color: rgb(216, 41, 41);
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
